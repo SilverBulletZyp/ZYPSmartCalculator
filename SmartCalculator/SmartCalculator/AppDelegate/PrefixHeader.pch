@@ -1,0 +1,14 @@
+//
+//  PrefixHeader.pch
+//  SmartCalculator
+//
+//  Created by 赵云鹏 on 16/3/11.
+//  Copyright © 2016年 赵云鹏. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+
+#import "Define.h"
+#endif /* PrefixHeader_pch */
